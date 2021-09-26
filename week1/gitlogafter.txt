@@ -1,0 +1,11 @@
+commit 377cda65237c44373ba01e910ccc5e8df348fec8
+Author: ukarabulut <ukarabulut@madisoncollege.edu>
+Date:   Sun Sep 26 14:52:52 2021 -0500
+
+    Initial commit of GitHub exercise
+
+commit e544e49b5d35626e3d03a9cfaa5f042676a05b6a
+Author: ukarabulut-matc <91431090+Ukarabulut@users.noreply.github.com>
+Date:   Sun Sep 26 14:12:36 2021 -0500
+
+    Initial commit
